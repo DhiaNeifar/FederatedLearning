@@ -39,3 +39,23 @@
 
 # debug information files
 *.dwo
+
+# Ignore CMake build folder
+build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# CLion / JetBrains IDEs
+.idea/
+cmake-build-*/
+
+# VS Code
+.vscode/
+
+# Backup and temporary files
+*~
+*.swp
+.DS_Store
