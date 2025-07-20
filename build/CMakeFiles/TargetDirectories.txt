@@ -1,4 +1,0 @@
-/Users/dhianeifar/Desktop/Projects/CppProjects/FederatedLearning/build/CMakeFiles/server.dir
-/Users/dhianeifar/Desktop/Projects/CppProjects/FederatedLearning/build/CMakeFiles/client.dir
-/Users/dhianeifar/Desktop/Projects/CppProjects/FederatedLearning/build/CMakeFiles/edit_cache.dir
-/Users/dhianeifar/Desktop/Projects/CppProjects/FederatedLearning/build/CMakeFiles/rebuild_cache.dir
